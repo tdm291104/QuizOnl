@@ -1,0 +1,47 @@
+[
+    {
+    "quizId": "quiz01",
+    "quizName": "quiz-01",
+    "quizDescription": "This is quiz-01",
+    "questionIds": [],
+    "quizDuration": 10,
+    "quizStatus": "active",
+    "quizIsOpen": true
+    },
+    {
+        "quizId": "quiz02",
+        "quizName": "quiz-02",
+        "quizDescription": "This is quiz-02",
+        "questionIds": [],
+        "quizDuration": 10,
+        "quizStatus": "active",
+        "quizIsOpen": true
+    },
+    {
+        "quizId": "quiz03",
+        "quizName": "quiz-03",
+        "quizDescription": "This is quiz-03",
+        "questionIds": [],
+        "quizDuration": 10,
+        "quizStatus": "active",
+        "quizIsOpen": true
+    },
+    {
+        "quizId": "quiz04",
+        "quizName": "quiz-04",
+        "quizDescription": "This is quiz-04",
+        "questionIds": [],
+        "quizDuration": 10,
+        "quizStatus": "active",
+        "quizIsOpen": false
+    },
+    {
+        "quizId": "quiz05",
+        "quizName": "quiz-05",
+        "quizDescription": "This is quiz-05",
+        "questionIds": [],
+        "quizDuration": 10,
+        "quizStatus": "active",
+        "quizIsOpen": true
+    }
+]
