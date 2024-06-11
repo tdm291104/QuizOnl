@@ -15,7 +15,7 @@ import { AuthModule } from './auth/auth.module';
     QuizQuestionModule,
     QuizTestModule,
     MongooseModule.forRoot(
-      '',
+      'mongodb+srv://QuizOnl:C8!pKG!u9knv@@b@atlascluster.rnetnvw.mongodb.net/',
     ),
     AuthModule,
   ],
